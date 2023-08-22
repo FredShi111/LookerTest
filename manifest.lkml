@@ -1,4 +1,3 @@
-
 project_name: "dashboard"
 
 application: dashboard {
