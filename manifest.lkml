@@ -6,5 +6,6 @@ application: dashboard {
   #file: "testTab.js"
   entitlements: {
     core_api_methods: ["me"] #Add more entitlements here as you develop new functionality
+    use_embeds: yes
   }
 }
